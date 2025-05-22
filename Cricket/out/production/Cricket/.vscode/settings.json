@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\L-1 T-2\\CSE 108\\Project\\Test\\openjfx-21.0.5_windows-x64_bin-sdk\\javafx-sdk-21.0.5\\lib\\javafx.base.jar",
+        "d:\\L-1 T-2\\CSE 108\\Project\\Test\\openjfx-21.0.5_windows-x64_bin-sdk\\javafx-sdk-21.0.5\\lib\\javafx.controls.jar",
+        "d:\\L-1 T-2\\CSE 108\\Project\\Test\\openjfx-21.0.5_windows-x64_bin-sdk\\javafx-sdk-21.0.5\\lib\\javafx.fxml.jar",
+        "d:\\L-1 T-2\\CSE 108\\Project\\Test\\openjfx-21.0.5_windows-x64_bin-sdk\\javafx-sdk-21.0.5\\lib\\javafx.graphics.jar",
+        "d:\\L-1 T-2\\CSE 108\\Project\\Test\\openjfx-21.0.5_windows-x64_bin-sdk\\javafx-sdk-21.0.5\\lib\\javafx.media.jar",
+        "d:\\L-1 T-2\\CSE 108\\Project\\Test\\openjfx-21.0.5_windows-x64_bin-sdk\\javafx-sdk-21.0.5\\lib\\javafx.swing.jar",
+        "d:\\L-1 T-2\\CSE 108\\Project\\Test\\openjfx-21.0.5_windows-x64_bin-sdk\\javafx-sdk-21.0.5\\lib\\javafx.web.jar",
+        "d:\\L-1 T-2\\CSE 108\\Project\\Test\\openjfx-21.0.5_windows-x64_bin-sdk\\javafx-sdk-21.0.5\\lib\\javafx-swt.jar"
+    ]
+}
